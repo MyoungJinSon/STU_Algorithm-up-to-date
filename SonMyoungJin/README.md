@@ -81,6 +81,7 @@
   |**_42626_**|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|Lv 2|[42626_더맵게.py](./[PGS]/42626_더맵게.py)|00:20:48.97|`힙`|✅|
   |**_84021_**|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Lv 3|[84021_퍼즐조각채우기.py](./[PGS]/84021_퍼즐조각채우기.py)|02:00:00.00|`BFS` `구현`|✅|
   |**_150367_**|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|Lv 3|[150367_표현가능한이진트리.py](./[PGS]/150367_표현가능한이진트리.py)|01:31:45.45|`완전이진트리`|✔️|
+  |**_150365_**|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=python3)|Lv 3|[150365_미로탈출명령어.py](./[PGS]/150365_미로탈출명령어.py)|02:00:00.00|`그리디`|✅|
 </details>
 
 ### [CDT] 코드트리
