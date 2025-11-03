@@ -84,6 +84,7 @@
   |**_150367_**|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|Lv 3|[150367_표현가능한이진트리.py](./[PGS]/150367_표현가능한이진트리.py)|01:31:45.45|`완전이진트리`|✔️|
   |**_150365_**|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=python3)|Lv 3|[150365_미로탈출명령어.py](./[PGS]/150365_미로탈출명령어.py)|02:00:00.00|`그리디`|✅|
   |**_87694_**|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Lv 3|[87694_아이템줍기.py](./[PGS]/87694_아이템줍기.py)|03:00:00.00|`DFS` `BFS`|✔️|
+  |**_42579_**|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Lv 3|[42579_베스트앨범.py](./[PGS]/42579_베스트앨범.py)|00:29:12.48|`해시`|✅|
 </details>
 
 ### [CDT] 코드트리
